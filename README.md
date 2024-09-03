@@ -14,4 +14,4 @@
     <img align="center" alt="htmls" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Desenvolvedor apaixonado por tecnologia e sempre buscando aprender algo novo. 
+Vamos construir algo incrível juntos!✨
